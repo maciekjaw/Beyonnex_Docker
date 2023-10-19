@@ -11,4 +11,4 @@ Please add page.pause() and run code in VSC
 
 How to run ?
 
-execute in console "python pytest"
+execute in console in project folder "pytest"
