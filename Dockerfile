@@ -7,3 +7,4 @@ COPY tests /beyonnex/tests
 
 COPY requirements.txt /beyonnex/
 RUN pip install -r requirements.txt
+CMD [ "pytest" ]

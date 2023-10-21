@@ -3,7 +3,7 @@ How to run test?
 
 1. Download repo
 2. Execute in terminal in a root folder <docker build -t playwright-docker ./>
-3. Execute in terminal in a root folder <docker run playwright-docker pytest >
+3. Execute in terminal in a root folder <docker run playwright-docker>
 
 
 How to debug in local mode ?
